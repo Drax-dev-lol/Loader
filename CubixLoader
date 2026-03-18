@@ -1,0 +1,9 @@
+----Survive lava for brainrot 
+if game.PlaceId == 119987266683883 then
+loadstring(game:HttpGet("https://pastebin.com/raw/Tiw9h6Nu"))()
+end
+
+----Jump for brainrot
+if game.PlaceId == 139299356663913 then
+loadstring(game:HttpGet('https://pastefy.app/bvRnBPb4/raw'))()
+end
