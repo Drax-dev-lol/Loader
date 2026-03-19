@@ -10,5 +10,5 @@ end
 
 ----Garden horizon
 if game.PlaceId == 130594398886540 then
-loadstring(game:HttpGet('https://pastefy.app/ny8wxUu0/raw'))()
+loadstring(game:HttpGet('https://pastefy.app/gMx7YJRu/raw'))()
 end
