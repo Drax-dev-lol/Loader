@@ -7,3 +7,8 @@ end
 if game.PlaceId == 139299356663913 then
 loadstring(game:HttpGet('https://pastefy.app/bvRnBPb4/raw'))()
 end
+
+----Garden horizon
+if game.PlaceId == 130594398886540 then
+loadstring(game:HttpGet('https://pastefy.app/15YKuLYN/raw'))()
+end
